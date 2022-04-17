@@ -1,0 +1,9 @@
+## 技术栈
+vue2 + elementui
+
+## 启动
+npm i
+blocklet dev || npm run serve
+
+## 打包
+npm run build
